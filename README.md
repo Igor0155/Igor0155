@@ -24,7 +24,7 @@ Eu tenho 20 anos e moro em Juiz de Fora/MG, calouro em Sistemas de Informações
   
   
   
-  ![Snake animation](https://github.com/igor0155/igor0155/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/igor0155/igor0155/blob/output/github-contribution-grid-snake.svg)
   
   
   
