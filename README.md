@@ -15,6 +15,7 @@ Eu tenho 20 anos e moro em Juiz de Fora/MG, calouro em Sistemas de Informações
   <img align="center" alt="DART" width="40" src="https://user-images.githubusercontent.com/78672215/231469198-1a8c190f-5d37-44c9-8b90-070b8d035f70.png">
   <img align="center" alt="FLUTTER" height="40" src="https://user-images.githubusercontent.com/78672215/231469315-5e2de6e6-3e96-4855-8af4-da6c7318129c.png">
   <img align="center" alt="PYTHON" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="GIT" width="40" src="https://user-images.githubusercontent.com/78672215/231549613-966552a0-be87-4b33-a1e9-48c14d37a468.png">
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
