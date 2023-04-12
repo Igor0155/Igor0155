@@ -8,8 +8,7 @@
 Eu tenho 20 anos e moro em Juiz de Fora/MG, estou cursando Sistemas de Informações na [UniAcademia (CES/JF)](https://www.uniacademia.edu.br/). Trabalho como Analista de Suporte Jr. na empresa [Célula Gestão de Documentos](https://www.celula.net.br/), pretendo me especializar em cybersecurity e além das matérias da graduação estou estudando desenvolvimento mobile. Gosto muito da área de TI, procuro sempre aprender algo novo. [Linkedin]().
 
   
-### Algumas das linguagens e Framework que possuo conhecimento👋
-  
+### Algumas das linguagens e Framework que possuo conhecimento
  <div style="display: inline_block"><br>
   <img align="center" alt="POSTGRES_SLQ" width="40" src="https://user-images.githubusercontent.com/78672215/231470354-0d1cbe7e-dbcd-43a0-99f3-631704fca334.png">
   <img align="center" alt="C" width="40" src="https://user-images.githubusercontent.com/78672215/231467867-3a560300-34e8-4808-8c95-7d4b93e278da.png">
