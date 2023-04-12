@@ -1,7 +1,7 @@
-[![Multiverse Banner](https://cdn.discordapp.com/attachments/897683597329317921/1003552049247551518/multiversebanner.jpeg)]()
 
 ##
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor0155&layout=compact&langs_count=16&theme=dracula" align="right">
+
 
  ## :space_invader: Olá, Eu sou o Igor Gabriel!
 
