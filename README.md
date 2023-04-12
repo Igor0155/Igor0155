@@ -5,7 +5,7 @@
 
  ## :space_invader: Olá, Eu sou o Igor Gabriel!
 
-Eu tenho 20 anos e moro em Juiz de Fora/MG, sou estou cursando Sistemas de Informações na [UniAcademia (CES/JF)](https://www.uniacademia.edu.br/). Trabalho como Analista de Suporte Jr. na empresa [Célula Gestão de Documentos](https://www.celula.net.br/). Pretendo me especializar em cybersecurity e além das matérias da graduação estou estudando desenvolvimento mobile. Gosto muito da área de TI, procuro sempre aprender algo novo. [Linkedin]().
+Eu tenho 20 anos e moro em Juiz de Fora/MG, estou cursando Sistemas de Informações na [UniAcademia (CES/JF)](https://www.uniacademia.edu.br/). Trabalho como Analista de Suporte Jr. na empresa [Célula Gestão de Documentos](https://www.celula.net.br/), pretendo me especializar em cybersecurity e além das matérias da graduação estou estudando desenvolvimento mobile. Gosto muito da área de TI, procuro sempre aprender algo novo. [Linkedin]().
 
   
 ### Abaixo são algumas das linguagens que eu estudo👋
