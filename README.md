@@ -23,6 +23,11 @@ Eu tenho 20 anos e moro em Juiz de Fora/MG, calouro em Sistemas de Informações
 </div>
   
   
+  
+  ![Snake animation](https://github.com/igor0155/igor0155/blob/output/github-contribution-grid-snake.svg)
+  
+  
+  
 <!--
 **Igor0155/Igor0155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
