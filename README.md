@@ -33,5 +33,3 @@ Eu tenho 21 anos e moro em Juiz de Fora/MG, calouro em Sistemas de Informações
   &nbsp;
   <img align="center" alt="BOOTSTRAP" height="40" src="https://user-images.githubusercontent.com/78672215/231469923-adf11e7f-decb-4b7f-b663-a3bdea9ac0c1.png"> 
 </div>
-  
-![Snake animation](https://github.com/Igor0155/Igor0155/blob/output/github-contribution-grid-snake.svg)
