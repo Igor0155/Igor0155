@@ -17,9 +17,8 @@ Meu nome é Igor Gabriel Rofrigues e tenho 21 anos. Sou natural de Juiz de Fora/
   * Analista de Suporte Jr. na Célula Gestão de Documentos
     
 ### Habilidades e Interesses:
-
-* **Cybersecurity:** Aprofundando meus conhecimentos em segurança da informação, buscando me tornar um especialista na área.
-* **Desenvolvimento Mobile:** Aprimorando minhas habilidades na criação de aplicativos para dispositivos móveis.
+* **Desenvolvimento Mobile:** Aprimorando minhas habilidades na criação de aplicativos para dispositivos móveis, buscando me tornar um especialista na área.
+* **Cybersecurity:** Aprofundando meus conhecimentos em segurança da informação.
 * **Aprendizagem Contínua:** Sempre buscando novos desafios e conhecimentos na área de TI.
 
 
