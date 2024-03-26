@@ -6,7 +6,7 @@
 ## :space_invader: Olá, Eu sou o Igor Gabriel!
 
 <p align="justify">
-Eu tenho 21 anos e moro em Juiz de Fora/MG,atualmente estou cursando graduação em Sistemas de Informações na <a href="https://www.uniacademia.edu.br/">UniAcademia (CES/JF)</a>, Técnico em      Informatica pelo <a href=" https://www.mg.senac.br/Paginas/default.aspx">Senac</a>. Trabalho como Analista de Suporte Jr. na empresa <a href="https://www.celula.net.br/">Célula Gestão de Documentos</a>, pretendo me especializar em cybersecurity e além das matérias da graduação, estou estudando desenvolvimento mobile. Gosto muito da área de TI, procuro sempre aprender algo novo. <a href="https://br.linkedin.com/in/igor-gabriel-rodrigues-205079208?trk=people-guest_people_search-card">Linkedin</a>.
+Eu tenho 21 anos e moro em Juiz de Fora/MG, atualmente estou cursando graduação em Sistemas de Informações na <a href="https://www.uniacademia.edu.br/">UniAcademia (CES/JF)</a>, Técnico em      Informatica pelo <a href=" https://www.mg.senac.br/Paginas/default.aspx">Senac</a>. Trabalho como Analista de Suporte Jr. na empresa <a href="https://www.celula.net.br/">Célula Gestão de Documentos</a>, pretendo me especializar em cybersecurity e além das matérias da graduação, estou estudando desenvolvimento mobile. Gosto muito da área de TI, procuro sempre aprender algo novo. <a href="https://br.linkedin.com/in/igor-gabriel-rodrigues-205079208?trk=people-guest_people_search-card">Linkedin</a>.
 </p>
   
 ### Algumas das linguagens e Framework que possuo conhecimento
