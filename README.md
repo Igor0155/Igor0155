@@ -3,10 +3,10 @@
 <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor0155&layout=compact&langs_count=16&theme=dracula" align="right">
 
 
-## :space_invader: Olá!
+## :space_invader: Olá, meu nome é Igor Gabriel!
 
 <p align="justify">
-Meu nome é Igor Gabriel Rofrigues e tenho 21 anos. Sou natural de Juiz de Fora/MG e apaixonado por tecnologia, especialmente na área de TI.
+Tenho 21 anos. Sou natural de Juiz de Fora/MG e apaixonado por tecnologia, especialmente na área de TI.
 </p>
 
 ### Formação Acadêmica:
