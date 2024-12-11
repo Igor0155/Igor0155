@@ -29,17 +29,19 @@ Tenho 21 anos. Sou natural de Juiz de Fora/MG e apaixonado por tecnologia, espec
   
 ### Algumas das linguagens e Framework que possuo conhecimento
  <div style="display: inline_block"><br>
-  <img align="center" alt="POSTGRES_SLQ" width="40" src="https://user-images.githubusercontent.com/78672215/231470354-0d1cbe7e-dbcd-43a0-99f3-631704fca334.png">
-  &nbsp;
-  <img align="center" alt="C" width="40" src="https://user-images.githubusercontent.com/78672215/231467867-3a560300-34e8-4808-8c95-7d4b93e278da.png">
-  &nbsp;
   <img align="center" alt="DART" width="40" src="https://user-images.githubusercontent.com/78672215/231469198-1a8c190f-5d37-44c9-8b90-070b8d035f70.png">
   &nbsp;
   <img align="center" alt="FLUTTER" height="40" src="https://user-images.githubusercontent.com/78672215/231469315-5e2de6e6-3e96-4855-8af4-da6c7318129c.png">
   &nbsp;
+  <img align="center" alt="POSTGRES_SLQ" width="40" src="https://user-images.githubusercontent.com/78672215/231470354-0d1cbe7e-dbcd-43a0-99f3-631704fca334.png">
+  &nbsp;
+  <img align="center" alt="C" width="40" src="https://user-images.githubusercontent.com/78672215/231467867-3a560300-34e8-4808-8c95-7d4b93e278da.png">
+  &nbsp;
   <img align="center" alt="PYTHON" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   &nbsp;
   <img align="center" alt="GIT" width="40" src="https://user-images.githubusercontent.com/78672215/231549613-966552a0-be87-4b33-a1e9-48c14d37a468.png">
+  &nbsp;
+  <img align="center" alt="React" width="40" src=https://github.com/user-attachments/assets/d7a9be83-5b75-497e-b9e1-c52fb0d9f198>
   &nbsp;
   <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   &nbsp;
