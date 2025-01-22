@@ -14,7 +14,7 @@ Tenho 22 anos. Sou natural de Juiz de Fora/MG e apaixonado por tecnologia, espec
   * Técnico em Informática pelo Senac
   
 ### Experiência Profissional:
-  * Analista de Suporte Jr. na Célula Gestão de Documentos
+  * Analista de Sistemas Jr. na D3 Software Solutions
     
 ### Habilidades e Interesses:
 * **Desenvolvimento Mobile:** Aprimorando minhas habilidades na criação de aplicativos para dispositivos móveis, buscando me tornar um especialista na área.
