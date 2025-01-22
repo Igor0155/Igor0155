@@ -6,22 +6,25 @@
 ## :space_invader: Olá, meu nome é Igor Gabriel!
 
 <p align="justify">
-Tenho 22 anos. Sou natural de Juiz de Fora/MG e apaixonado por tecnologia, especialmente na área de TI.
+Sou um entusiasta de tecnologia de 22 anos, natural de Juiz de Fora/MG, apaixonado pela área de TI e motivado por desafios que impulsionam inovação e aprendizado constante.
 </p>
 
 ### Formação Acadêmica:
-  * Graduando em Sistemas de Informação pela <a href="https://www.uniacademia.edu.br/">UniAcademia (CES/JF)</a> <br>
-  * Técnico em Informática pelo Senac
+  * Graduando em Sistemas de Informação - <a href="https://www.uniacademia.edu.br/">UniAcademia (CES/JF)</a> <br>
+  * Técnico em Informática - Senac
   
 ### Experiência Profissional:
   * Analista de Sistemas Jr. na D3 Software Solutions
     
+Atuo na análise e desenvolvimento de sistemas com foco nas áreas mobile, desktop e web, criando soluções eficientes e escaláveis para atender às diversas demandas empresariais. Minhas atividades incluem também a realização de testes, identificação e correção de bugs, além de elaborar a documentação técnica dos softwares da empresa, garantindo clareza e organização para facilitar a manutenção e evolução dos projetos.
+    
 ### Habilidades e Interesses:
-* **Desenvolvimento Mobile:** Aprimorando minhas habilidades na criação de aplicativos para dispositivos móveis, buscando me tornar um especialista na área.
-* **Cybersecurity:** Aprofundando meus conhecimentos em segurança da informação.
-* **Aprendizagem Contínua:** Sempre buscando novos desafios e conhecimentos na área de TI.
+* **Desenvolvimento Mobile:** Em constante aprimoramento na criação de aplicativos inovadores, com o objetivo de me tornar referência na área.
+* **Cybersecurity:** Investindo em estudos e práticas voltadas à proteção de dados e segurança da informação.
+* **Aprendizagem Contínua:** Comprometido em expandir meus conhecimentos e acompanhar as tendências tecnológicas para entregar resultados de excelência.
 
-
+### Objetivo
+Busco oportunidades que me permitam aplicar e aprofundar minhas habilidades, contribuindo para projetos desafiadores e de impacto, enquanto cresço como profissional na área de TI.
 
   
 <a href="https://br.linkedin.com/in/igor-gabriel-rodrigues-205079208?trk=people-guest_people_search-card">Linkedin</a>.
