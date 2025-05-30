@@ -38,6 +38,8 @@ Busco oportunidades que me permitam aplicar e aprofundar minhas habilidades, con
   &nbsp;
   <img align="center" alt="POSTGRES_SLQ" width="40" src="https://user-images.githubusercontent.com/78672215/231470354-0d1cbe7e-dbcd-43a0-99f3-631704fca334.png">
   &nbsp;
+  <img align="center" alt="C#" width="40" src="https://github.com/user-attachments/assets/3b26f1f7-6c77-4c5c-9122-45907a53f355">
+  &nbsp;
   <img align="center" alt="C" width="40" src="https://user-images.githubusercontent.com/78672215/231467867-3a560300-34e8-4808-8c95-7d4b93e278da.png">
   &nbsp;
   <img align="center" alt="PYTHON" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
