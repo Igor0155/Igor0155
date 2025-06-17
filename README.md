@@ -14,6 +14,7 @@ Sou um entusiasta de tecnologia de 22 anos, natural de Juiz de Fora/MG, apaixona
   * Técnico em Informática - Senac
   
 ### Experiência Profissional:
+  * Analista de Suporte Jr. na Célula Gestão de Documentos
   * Analista de Sistemas Jr. na D3 Software Solutions
     
 Atuo na análise e desenvolvimento de sistemas com foco nas áreas mobile, desktop e web, criando soluções eficientes e escaláveis para atender às diversas demandas empresariais. Minhas atividades incluem também a realização de testes, identificação e correção de bugs, além de elaborar a documentação técnica dos softwares da empresa, garantindo clareza e organização para facilitar a manutenção e evolução dos projetos.
