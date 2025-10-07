@@ -61,3 +61,11 @@ Busco oportunidades que me permitam aplicar e aprofundar minhas habilidades, con
   &nbsp;
   <img align="center" alt="BOOTSTRAP" height="40" src="https://user-images.githubusercontent.com/78672215/231469923-adf11e7f-decb-4b7f-b663-a3bdea9ac0c1.png"> 
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=igor0155&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=igor0155&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=igor0155&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=igor0155&limit=3&theme=dark&combine_all_yearly_contributions=true)
