@@ -6,7 +6,7 @@
 ## :space_invader: Olá, meu nome é Igor Gabriel!
 
 <p align="justify">
-Sou um entusiasta de tecnologia de 22 anos, natural de Juiz de Fora/MG, apaixonado pela área de TI e motivado por desafios que impulsionam inovação e aprendizado constante.
+Sou um entusiasta de tecnologia de 23 anos, natural de Juiz de Fora/MG, apaixonado pela área de TI e motivado por desafios que impulsionam inovação e aprendizado constante.
 </p>
 
 ### Formação Acadêmica:
