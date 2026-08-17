@@ -14,9 +14,8 @@ Sou um entusiasta de tecnologia de 24 anos, natural de Juiz de Fora/MG, apaixona
   * Técnico em Informática - Senac
   
 ### Experiência Profissional:
-  * Desenvolvedor Flutter na D3 Software Solutions
+  * Engenheiro de Software | Desenvolvedor Flutter na D3 Software Solutions
   * Analista de Suporte Jr. na Célula Gestão de Documentos
-  * 
     
 Sou engenheiro de software com foco em mobile, criando soluções eficientes e escaláveis para atender às diversas demandas empresariais. Minhas atividades incluem também a realização de testes, identificação e correção de bugs, além de elaborar a documentação técnica dos softwares da empresa, garantindo clareza e organização para facilitar a manutenção e evolução dos projetos.
     
