@@ -6,18 +6,19 @@
 ## :space_invader: Olá, meu nome é Igor Gabriel!
 
 <p align="justify">
-Sou um entusiasta de tecnologia de 23 anos, natural de Juiz de Fora/MG, apaixonado pela área de TI e motivado por desafios que impulsionam inovação e aprendizado constante.
+Sou um entusiasta de tecnologia de 24 anos, natural de Juiz de Fora/MG, apaixonado pela área de TI e motivado por desafios que impulsionam inovação e aprendizado constante.
 </p>
 
 ### Formação Acadêmica:
-  * Graduando em Sistemas de Informação - <a href="https://www.uniacademia.edu.br/">UniAcademia (CES/JF)</a> <br>
+  * Sistemas de Informação - <a href="https://www.uniacademia.edu.br/">UniAcademia (CES/JF)</a> <br>
   * Técnico em Informática - Senac
   
 ### Experiência Profissional:
+  * Desenvolvedor Flutter na D3 Software Solutions
   * Analista de Suporte Jr. na Célula Gestão de Documentos
-  * Analista de Sistemas Jr. na D3 Software Solutions
+  * 
     
-Atuo na análise e desenvolvimento de sistemas com foco nas áreas mobile, desktop e web, criando soluções eficientes e escaláveis para atender às diversas demandas empresariais. Minhas atividades incluem também a realização de testes, identificação e correção de bugs, além de elaborar a documentação técnica dos softwares da empresa, garantindo clareza e organização para facilitar a manutenção e evolução dos projetos.
+Sou engenheiro de software com foco em mobile, criando soluções eficientes e escaláveis para atender às diversas demandas empresariais. Minhas atividades incluem também a realização de testes, identificação e correção de bugs, além de elaborar a documentação técnica dos softwares da empresa, garantindo clareza e organização para facilitar a manutenção e evolução dos projetos.
     
 ### Habilidades e Interesses:
 * **Desenvolvimento Mobile:** Em constante aprimoramento na criação de aplicativos inovadores, com o objetivo de me tornar referência na área.
