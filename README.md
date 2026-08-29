@@ -1,37 +1,43 @@
+# 👾 Olá, meu nome é Igor Gabriel!
 
-##
-<img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igor0155&layout=compact&langs_count=16&theme=dracula" align="right">
+Sou um **Engenheiro de Software** de 24 anos, natural de Juiz de Fora/MG, apaixonado por tecnologia e focado na criação de soluções eficientes, escaláveis e de alto impacto.
 
+### 👨‍💻 Sobre mim
 
-## :space_invader: Olá, meu nome é Igor Gabriel!
+Especialista em desenvolvimento mobile com **Flutter**, possuo forte atuação em todo o ciclo de vida do software. Minha abordagem une a construção de interfaces de alta fidelidade (UI/UX) com a integração a ecossistemas full-stack robustos.
 
-<p align="justify">
-Sou um entusiasta de tecnologia de 24 anos, natural de Juiz de Fora/MG, apaixonado pela área de TI e motivado por desafios que impulsionam inovação e aprendizado constante.
-</p>
+* 🏗️ **Arquitetura & Qualidade:** Aplico princípios de *Clean Architecture* e *Domain-Driven Design (DDD)* para garantir que os projetos sejam escaláveis e de fácil manutenção. Priorizo a confiabilidade do software através de testes automatizados (Unitários/Widget) e esteiras de CI/CD.
+* 🚀 **Projetos & Inovação:** Além da minha experiência corporativa desenvolvendo soluções do zero, aplico meus conhecimentos em projetos autorais que resolvem problemas reais (como o MedTrack, um app de controle de medicamentos) e exploro o desenvolvimento de mecânicas e jogos utilizando HTML5 Canvas e Phaser JS no meu tempo livre.
+* 🔐 **Interesses Contínuos:** Comprometido com a aprendizagem contínua, com interesse ativo em Cybersecurity, proteção de dados e exploração de novas linguagens.
 
-### Formação Acadêmica:
-  * Sistemas de Informação - <a href="https://www.uniacademia.edu.br/">UniAcademia (CES/JF)</a> <br>
-  * Técnico em Informática - Senac
-  
-### Experiência Profissional:
-  * Engenheiro de Software | Desenvolvedor Flutter na D3 Software Solutions
-  * Analista de Suporte Jr. na Célula Gestão de Documentos
-    
-Sou engenheiro de software com foco em mobile, criando soluções eficientes e escaláveis para atender às diversas demandas empresariais. Minhas atividades incluem também a realização de testes, identificação e correção de bugs, além de elaborar a documentação técnica dos softwares da empresa, garantindo clareza e organização para facilitar a manutenção e evolução dos projetos.
-    
-### Habilidades e Interesses:
-* **Desenvolvimento Mobile:** Em constante aprimoramento na criação de aplicativos inovadores, com o objetivo de me tornar referência na área.
-* **Cybersecurity:** Investindo em estudos e práticas voltadas à proteção de dados e segurança da informação.
-* **Aprendizagem Contínua:** Comprometido em expandir meus conhecimentos e acompanhar as tendências tecnológicas para entregar resultados de excelência.
+### 💼 Experiência Profissional
 
-### Objetivo
-Busco oportunidades que me permitam aplicar e aprofundar minhas habilidades, contribuindo para projetos desafiadores e de impacto, enquanto cresço como profissional na área de TI.
+* **Engenheiro de Software | Desenvolvedor Flutter** na *D3 Software Solutions*
+  * Liderança técnica na definição de arquitetura mobile, implementação de gerenciamento de estado reativo (Riverpod) e integração de APIs REST complexas fazendo a ponte com microsserviços em C#, Go e .NET.
+* **Analista de Suporte Jr.** na *Célula Gestão de Documentos*
+  * Otimização de bancos de dados relacionais (PostgreSQL), criação de relatórios críticos e monitoramento avançado de infraestrutura de servidores via Zabbix.
 
-  
-<a href="https://br.linkedin.com/in/igor-gabriel-rodrigues-205079208?trk=people-guest_people_search-card">Linkedin</a>.
+### 🛠️ Tecnologias e Ferramentas
 
-  
-### Algumas das linguagens e Framework que possuo conhecimento
+* **Mobile & Front-end:** Flutter, Dart, Riverpod, Provider.
+* **Back-end:** C#, .NET, Java, Spring Boot, Go, REST APIs, Firebase.
+* **Engenharia de Software:** Clean Architecture, DDD, CI/CD, Git/GitHub, Testes Automatizados, Design Patterns (MVVM, MVC), Scrum/Kanban.
+* **Banco de Dados & Infra:** PostgreSQL, SQL, Zabbix.
+
+### 🎓 Formação Acadêmica
+
+* **Bacharelado em Sistemas de Informação** - UniAcademia (CES/JF) *(2022 - 2026)*
+* **Técnico em Informática** - Senac *(2020 - 2022)*
+
+### 🎯 Objetivo
+
+Busco atuar em ambientes que exijam um alto rigor técnico e resolução de problemas complexos, onde eu possa aplicar minhas habilidades arquiteturais e full-stack para entregar produtos que realmente gerem valor ao negócio, mantendo sempre o compromisso com a excelência e a inovação.
+
+### 📫 Como me encontrar
+
+* 💼 [LinkedIn](https://linkedin.com/in/igor-gabriel-rodrigues-dev/en)
+* ✉️ E-mail: igorgabriel0155@gmail.com
+
  <div style="display: inline_block"><br>
   <img align="center" alt="DART" width="40" src="https://user-images.githubusercontent.com/78672215/231469198-1a8c190f-5d37-44c9-8b90-070b8d035f70.png">
   &nbsp;
