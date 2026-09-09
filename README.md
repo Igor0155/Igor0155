@@ -1,10 +1,10 @@
 # 👾 Olá, meu nome é Igor Gabriel!
 
-Sou um **Engenheiro de Software** de 24 anos, natural de Juiz de Fora/MG, apaixonado por tecnologia e focado na criação de soluções eficientes, escaláveis e de alto impacto.
+Sou um **Engenheiro de Software** de 24 anos, natural de Juiz de Fora/MG, apaixonado por tecnologia e focado na criação de soluções eficientes, escaláveis e de alto impacto. 
 
 ### 👨‍💻 Sobre mim
 
-Especialista em desenvolvimento mobile com **Flutter**, possuo forte atuação em todo o ciclo de vida do software. Minha abordagem une a construção de interfaces de alta fidelidade (UI/UX) com a integração a ecossistemas full-stack robustos.
+Tenho 4+ de experiência em arquiteturas de soluções full-stack e especialista em desenvolvimento mobile com **Flutter**, possuo forte atuação em todo o ciclo de vida do software. Minha abordagem une a construção de interfaces de alta fidelidade (UI/UX) com a integração a ecossistemas full-stack robustos. Especialista em integrações complexas com REST APIs, gerenciamento com bancos de dados relacionais e não relacionais, aplicações de Clean Architecture e Domain-Data-Drive (DDD).
 
 * 🏗️ **Arquitetura & Qualidade:** Aplico princípios de *Clean Architecture* e *Domain-Driven Design (DDD)* para garantir que os projetos sejam escaláveis e de fácil manutenção. Priorizo a confiabilidade do software através de testes automatizados (Unitários/Widget) e esteiras de CI/CD.
 * 🚀 **Projetos & Inovação:** Além da minha experiência corporativa desenvolvendo soluções do zero, aplico meus conhecimentos em projetos autorais que resolvem problemas reais (como o MedTrack, um app de controle de medicamentos) e exploro o desenvolvimento de mecânicas e jogos utilizando HTML5 Canvas e Phaser JS no meu tempo livre.
@@ -19,15 +19,19 @@ Especialista em desenvolvimento mobile com **Flutter**, possuo forte atuação e
 
 ### 🛠️ Tecnologias e Ferramentas
 
-* **Mobile & Front-end:** Flutter, Dart, Riverpod, Provider.
-* **Back-end:** C#, .NET, Java, Spring Boot, Go, REST APIs, Firebase.
-* **Engenharia de Software:** Clean Architecture, DDD, CI/CD, Git/GitHub, Testes Automatizados, Design Patterns (MVVM, MVC), Scrum/Kanban.
-* **Banco de Dados & Infra:** PostgreSQL, SQL, Zabbix.
+* **Programming Languages**: C#, Dart, Java, Python, JavaScript, TypeScript, Go, SQL.
+* **Databases & Storage**: PostgreSQL, MySQL, SQL Server, MongoDB, SQLite, Firebase, AWS S3.
+* **Visualization Tools**: Grafana, Power BI, Postman, Data Flow Diagrams (DFDs);
+* **Cloud**: AWS, Azure.
+* **DevOps & Tools**: Zabbix, Datadog, Git, GitHub, MkDocs.
+* **Programming Frameworks & Architecture**: Flutter, React, .NET, Spring Boot, Riverpod, Clean Architecture, MVVM, MVC, DDD, GoF Design Patterns.
+* **Methodologies**: Automated Testing (Unit, Widget), System Integration, Troubleshooting, REST API Consumption, Agile (Scrum, Kanban).
+* **Others**: LLMs, FastAPI, Rest APIs, OAuth2, JWT, CI/CD Pipelines, Linux, Proxy/Gateway patterns.
 
 ### 🎓 Formação Acadêmica
 
-* **Bacharelado em Sistemas de Informação** - UniAcademia (CES/JF) *(2022 - 2026)*
-* **Técnico em Informática** - Senac *(2020 - 2022)*
+* **Bacharelado em Sistemas de Informação** - UniAcademia Centro Universitário *(2022 - 2026)*
+* **Técnico em Informática** - Senac Minas *(2020 - 2022)*
 
 ### 🎯 Objetivo
 
